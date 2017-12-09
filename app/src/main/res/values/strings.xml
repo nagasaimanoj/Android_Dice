@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="app_name_nagasai">Dice by Naga Sai</string>
+    <string name="tutorial">Enter a number  below and tap RANDOMISE to generate a random number and hold Randomise to clear Result</string>
+    <string name="ask">Enter a Number</string>
+    <string name="btnText">Randomise</string>
+    <string name="dice_by_gnsmk">Dice by GNSMK</string>
+    <string name="enter_a_number_below_and_tap_randomise_to_generate_a_random_number">Enter a number below and tap RANDOMISE to generate a random number</string>
+</resources>
