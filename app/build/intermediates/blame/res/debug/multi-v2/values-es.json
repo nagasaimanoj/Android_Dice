@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Code\\Android\\Dice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es\\values-es.xml",
+            "outputFile": "D:\\Code\\Android\\GNSMK\\Dice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es\\values-es.xml",
             "map": [
                 {
                     "source": "C:\\Users\\nagag\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\4a9b49ad5ee9ea7c22e5677b535b60e6\\res\\values-es\\values-es.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Code\\Android\\Dice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+            "outputFile": "D:\\Code\\Android\\GNSMK\\Dice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\nagag\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\a825cb2418a0d4df0193c731721d5ddf\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
